@@ -1,0 +1,22 @@
+[
+  {
+    "caption": "GitHub Issues: Everyone's Issues",
+    "command": "ghi_everyones"
+  },
+  {
+    "caption": "GitHub Issues: Assigned to you",
+    "command": "ghi_assigned_to_you"
+  },
+  {
+    "caption": "GitHub Issues: Search",
+    "command": "ghi_search"
+  },
+  {
+    "caption": "GitHub Issues: New Issue",
+    "command": "ghi_new"
+  },
+  {
+    "caption": "GitHub Issues: Show Issue",
+    "command": "ghi_show"
+  }
+]
