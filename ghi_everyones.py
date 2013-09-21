@@ -5,7 +5,7 @@ import httplib
 from github import *
 
 
-class GhiAssignedToYouCommand(GithubWindowCommand):
+class GhiEveryonesCommand(GithubWindowCommand):
     @with_repo
     def run(self, repo):
         # get "user/repo"
